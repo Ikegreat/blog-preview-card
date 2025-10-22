@@ -7,7 +7,9 @@ body {
     justify-content: center;
     font-family: Figtree;
     font-weight: 500,800;
-    height: 100vh;
+    height: 93vh;
+    
+    
 }
 .main-container {
     
@@ -17,10 +19,10 @@ body {
     box-shadow: 8px 8px ;
     margin-top: 90px;
     background-color: white;
-    padding: 15px;
+    padding: 15px ;
     font-family: Figtree;
     overflow: hidden;
-    margin-top: 10px;
+    margin-top: 5px;
     
     
     }
