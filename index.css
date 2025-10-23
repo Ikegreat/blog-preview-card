@@ -64,32 +64,23 @@ h1 {
     gap: 15px;
     margin-top:32px;
     span {
-        font-size: 12px;
-        font-weight: 600;
+        font-size: 20px;
+        font-weight: 800;
+        
 
 
     }
 }
 .avatar-image {
     height: 50px;
-}
+ }
 @media (max-width : 768px) {
     .main-container {
         height: auto;
         span {
-            font-size: 25px;
-            font-weight: 800;
-        }
+            font-size: 20apx;
+            font-weight: 700;
+        } 
 
     }
-}
-@media (max-width :1024) {
-  .main-container {
-    height: auto;
-    span {
-        font-size: 25px;
-        font-weight: 800;
-
-    }
-  }
 }
