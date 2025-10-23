@@ -86,5 +86,10 @@ h1 {
 @media (max-width :1024) {
   .main-container {
     height: auto;
+    span {
+        font-size: 25px;
+        font-weight: 800;
+
+    }
   }
 }
